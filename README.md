@@ -1,2 +1,6 @@
 # first-repository
-my first github repository
+  My first github repository
+  <br>
+
+
+learning and excuting .
